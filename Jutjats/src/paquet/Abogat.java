@@ -3,7 +3,7 @@ package paquet;
 import java.util.ArrayList;
 
 public class Abogat {
-
+/**canviiiiiiiiii*/
 	private static int contador = 0;
 	private String nom;
 	private int identificador;
